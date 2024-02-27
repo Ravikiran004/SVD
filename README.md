@@ -1,0 +1,1 @@
+Explore Singular Value Decomposition (SVD), a matrix factorization technique with applications in various areas, including recommendation systems and image compression. This folder covers the theory, applications, and implementation of SVD with examples in Python.
